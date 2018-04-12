@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Hello world\n\u00b6", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#hello-world", 
+            "text": "", 
+            "title": "Hello world"
+        }
+    ]
+}
